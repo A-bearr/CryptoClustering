@@ -1,5 +1,5 @@
 # CryptoClustering
-##Mod 19 challenge 
+## Mod 19 challenge 
 
 This project applies unsupervised machine learning techniques to identify natural groupings in the cryptocurrency market using a dataset of key crypto performance metrics. The goal is to analyze how clustering outcomes differ when using the original feature set versus reduced dimensionality via PCA.
 
